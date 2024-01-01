@@ -1,5 +1,2 @@
 ## Basic Backend Structure in GO
-
-```
-goose down
-```
+This is a feeds backend demonstrating a basic backend structure in go language.
